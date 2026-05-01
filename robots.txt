@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://onradar-dogs.github.io/german-shepherd-dog-guide/sitemap.xml
