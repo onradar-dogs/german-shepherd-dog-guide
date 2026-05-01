@@ -1,2 +1,5 @@
-# german-shepherd-dog-guide
-Dog breed guide for German Shepherd — feeding, health, training, care tips
+# German Shepherd Dog Guide
+
+Complete German Shepherd care guide.
+
+Visit: https://onradar-dogs.github.io/german-shepherd-dog-guide/
